@@ -1,9 +1,9 @@
 # Todo List API
-This project is a simple Node.js/Express assigned to us via our sponsor, Jose Alvarado, in order to become more familiar with the technologies we'll be using over the semester.   
+This project is a simple Node.js/Express Todo List in order to become more familiar with the technologies we'll be using over the semester on our webapp.   
 
 
 ## Development Setup
-You'll first need [Node.js](https://nodejs.org/) installed, but based on the README for class's tech assessment, I believe you already have it installed.
+You'll first need [Node.js](https://nodejs.org/) installed.
 
 ### Installing the Required Dependencies
 Similar to previous instructions, please install the necessary dependencies for this API.
